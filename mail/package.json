@@ -1,0 +1,14 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '\n\nThis is a simple mail sender module that has been modulised for ease of use\n\nBixbyte.inc\n\n'"
+  },
+  "author": "Bixbyte",
+  "license": "ISC",
+  "dependencies": {
+    "mandrill-api": "^1.0.45"
+  }
+}
